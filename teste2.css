@@ -1,0 +1,12 @@
+.conteiner {
+    width: 200px;
+    height: 200px;
+    background: black;
+    text-align: center;
+}
+
+.conteiner__para {
+    color: red;
+    position: relative;
+    top: 40%;
+}
